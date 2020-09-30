@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.tdd</groupId>
-	<artifactId>JUnit</artifactId>
+	<artifactId>Java_02_Junit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>JUnit</name>
+	<name>Java_02_Junit</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
