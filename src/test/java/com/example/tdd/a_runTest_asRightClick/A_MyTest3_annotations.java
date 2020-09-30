@@ -1,6 +1,5 @@
 package com.example.tdd.a_runTest_asRightClick;
 
-import org.junit.Assert;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
