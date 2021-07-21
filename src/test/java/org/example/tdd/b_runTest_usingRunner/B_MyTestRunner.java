@@ -1,4 +1,4 @@
-package com.example.tdd.b_runTest_usingRunner;
+package org.example.tdd.b_runTest_usingRunner;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;

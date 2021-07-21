@@ -1,10 +1,10 @@
-package com.example.tdd.c_runTest_multipleTestClass;
+package org.example.tdd.c_runTest_multipleTestClass;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 
-public class C_MyTest1 {
+public class C_MyTest2 {
 	
 	@Test
 	public void testAdd() {

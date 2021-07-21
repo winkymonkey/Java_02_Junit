@@ -1,4 +1,4 @@
-package com.example.tdd.c_runTest_multipleTestClass;
+package org.example.tdd.c_runTest_multipleTestClass;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

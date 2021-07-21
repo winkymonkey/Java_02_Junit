@@ -1,10 +1,10 @@
-package com.example.tdd.b_runTest_usingRunner;
+package org.example.tdd.a_runTest_asRightClick;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 
-public class B_MyTest {
+public class A_MyTest1 {
 	
 	@Test
 	public void testAdd() {

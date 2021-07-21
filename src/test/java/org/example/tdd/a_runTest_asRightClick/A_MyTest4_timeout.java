@@ -1,4 +1,4 @@
-package com.example.tdd.a_runTest_asRightClick;
+package org.example.tdd.a_runTest_asRightClick;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.tdd.d_runTest_multipleTimeDifferentParameter;
+package org.example.tdd.d_runTest_multipleTimeDifferentParameter;
 
 import static org.junit.Assert.assertEquals;
 
